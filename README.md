@@ -5,8 +5,8 @@ This dataset for the Kaggle competition (both train and test sets) was generated
 
 ## Files
 
-- **train.csv** - The training dataset, where `loan_status` is the binary target.
-- **test.csv** - The test dataset, where your objective is to predict the probability of the target `loan_status` for each row.
+- **trainloan.csv** - The training dataset, where `loan_status` is the binary target.
+- **testloan.csv** - The test dataset, where your objective is to predict the probability of the target `loan_status` for each row.
 - **sample_submission.csv** - A sample submission file in the correct format.
 
 ## Evaluation
